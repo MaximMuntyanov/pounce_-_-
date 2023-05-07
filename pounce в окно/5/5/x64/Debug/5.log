@@ -1,0 +1,3 @@
+﻿  5.cpp
+C:\Users\tboim\Desktop\pounce в окно\5\5\5.cpp(15,27): warning C4566: символ, представленный универсальным именем символа "\u03A3", невозможно представить в текущей кодовой странице (1251)
+  5.vcxproj -> C:\Users\tboim\Desktop\pounce в окно\5\x64\Debug\5.exe
